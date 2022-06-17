@@ -1,0 +1,47 @@
+C:\Users\sahncagri\Desktop\Unity-Demo-JungleWar-master\Server\bin\Debug\Server.exe.config
+C:\Users\sahncagri\Desktop\Unity-Demo-JungleWar-master\Server\bin\Debug\Server.exe
+C:\Users\sahncagri\Desktop\Unity-Demo-JungleWar-master\Server\bin\Debug\Server.pdb
+C:\Users\sahncagri\Desktop\Unity-Demo-JungleWar-master\Server\bin\Debug\Common.dll
+C:\Users\sahncagri\Desktop\Unity-Demo-JungleWar-master\Server\bin\Debug\MySql.Data.dll
+C:\Users\sahncagri\Desktop\Unity-Demo-JungleWar-master\Server\bin\Debug\Google.Protobuf.dll
+C:\Users\sahncagri\Desktop\Unity-Demo-JungleWar-master\Server\bin\Debug\ZstdNet.dll
+C:\Users\sahncagri\Desktop\Unity-Demo-JungleWar-master\Server\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sahncagri\Desktop\Unity-Demo-JungleWar-master\Server\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sahncagri\Desktop\Unity-Demo-JungleWar-master\Server\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sahncagri\Desktop\Unity-Demo-JungleWar-master\Server\bin\Debug\System.Memory.dll
+C:\Users\sahncagri\Desktop\Unity-Demo-JungleWar-master\Server\bin\Debug\System.Buffers.dll
+C:\Users\sahncagri\Desktop\Unity-Demo-JungleWar-master\Server\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sahncagri\Desktop\Unity-Demo-JungleWar-master\Server\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sahncagri\Desktop\Unity-Demo-JungleWar-master\Server\bin\Debug\Common.pdb
+C:\Users\sahncagri\Desktop\Unity-Demo-JungleWar-master\Server\bin\Debug\MySql.Data.xml
+C:\Users\sahncagri\Desktop\Unity-Demo-JungleWar-master\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\sahncagri\Desktop\Unity-Demo-JungleWar-master\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\sahncagri\Desktop\Unity-Demo-JungleWar-master\Server\obj\Debug\Server.exe.config
+C:\Users\sahncagri\Desktop\Unity-Demo-JungleWar-master\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\sahncagri\Desktop\Unity-Demo-JungleWar-master\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\sahncagri\Desktop\Unity-Demo-JungleWar-master\Server\obj\Debug\Server.exe
+C:\Users\sahncagri\Desktop\Unity-Demo-JungleWar-master\Server\obj\Debug\Server.pdb
+C:\Users\sahncagri\Desktop\Bitirme\Ag Programlama\Server\bin\Debug\Server.exe.config
+C:\Users\sahncagri\Desktop\Bitirme\Ag Programlama\Server\bin\Debug\Server.exe
+C:\Users\sahncagri\Desktop\Bitirme\Ag Programlama\Server\bin\Debug\Server.pdb
+C:\Users\sahncagri\Desktop\Bitirme\Ag Programlama\Server\bin\Debug\Common.dll
+C:\Users\sahncagri\Desktop\Bitirme\Ag Programlama\Server\bin\Debug\MySql.Data.dll
+C:\Users\sahncagri\Desktop\Bitirme\Ag Programlama\Server\bin\Debug\Google.Protobuf.dll
+C:\Users\sahncagri\Desktop\Bitirme\Ag Programlama\Server\bin\Debug\ZstdNet.dll
+C:\Users\sahncagri\Desktop\Bitirme\Ag Programlama\Server\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sahncagri\Desktop\Bitirme\Ag Programlama\Server\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sahncagri\Desktop\Bitirme\Ag Programlama\Server\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sahncagri\Desktop\Bitirme\Ag Programlama\Server\bin\Debug\System.Memory.dll
+C:\Users\sahncagri\Desktop\Bitirme\Ag Programlama\Server\bin\Debug\System.Buffers.dll
+C:\Users\sahncagri\Desktop\Bitirme\Ag Programlama\Server\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sahncagri\Desktop\Bitirme\Ag Programlama\Server\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sahncagri\Desktop\Bitirme\Ag Programlama\Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sahncagri\Desktop\Bitirme\Ag Programlama\Server\bin\Debug\Common.pdb
+C:\Users\sahncagri\Desktop\Bitirme\Ag Programlama\Server\bin\Debug\MySql.Data.xml
+C:\Users\sahncagri\Desktop\Bitirme\Ag Programlama\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\sahncagri\Desktop\Bitirme\Ag Programlama\Server\obj\Debug\Server.exe.config
+C:\Users\sahncagri\Desktop\Bitirme\Ag Programlama\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\sahncagri\Desktop\Bitirme\Ag Programlama\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\sahncagri\Desktop\Bitirme\Ag Programlama\Server\obj\Debug\Server.exe
+C:\Users\sahncagri\Desktop\Bitirme\Ag Programlama\Server\obj\Debug\Server.pdb
+C:\Users\sahncagri\Desktop\Bitirme\Ag Programlama\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
