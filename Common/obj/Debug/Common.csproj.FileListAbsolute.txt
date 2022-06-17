@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\GitHub\JungleWar\Common\bin\Debug\Common.dll
+C:\Users\Administrator\Documents\GitHub\JungleWar\Common\bin\Debug\Common.pdb
+C:\Users\Administrator\Documents\GitHub\JungleWar\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\JungleWar\Common\obj\Debug\Common.dll
+C:\Users\Administrator\Documents\GitHub\JungleWar\Common\obj\Debug\Common.pdb
+C:\Users\sahncagri\Desktop\Unity-Demo-JungleWar-master\Common\bin\Debug\Common.dll
+C:\Users\sahncagri\Desktop\Unity-Demo-JungleWar-master\Common\bin\Debug\Common.pdb
+C:\Users\sahncagri\Desktop\Unity-Demo-JungleWar-master\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\sahncagri\Desktop\Unity-Demo-JungleWar-master\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\sahncagri\Desktop\Unity-Demo-JungleWar-master\Common\obj\Debug\Common.dll
+C:\Users\sahncagri\Desktop\Unity-Demo-JungleWar-master\Common\obj\Debug\Common.pdb
